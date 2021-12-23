@@ -1,0 +1,22 @@
+{
+  "name": "my-new-thank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominykl/my-new-thank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominykl/my-new-thank/issues"
+  },
+  "homepage": "https://github.com/dominykl/my-new-thank#readme",
+  "dependencies": {
+    "yarn": "^1.22.17"
+  }
+}
